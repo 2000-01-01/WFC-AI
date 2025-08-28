@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e4d0072cb0a75947ad9892ed3d43365, type: 3}
+  m_Name: PalmTrees
+  m_EditorClassIdentifier: 
+  tileName: PalmTrees
+  tilePrefab: {fileID: 1591559679761318, guid: 0d0275141fa730e448518a9096d6c752, type: 3}
+  weight: 1
+  compatibleNeighbors:
+  - {fileID: 11400000, guid: 25f128937a0ad4c3b8237f160f4f51f6, type: 2}
+  - {fileID: 11400000}
